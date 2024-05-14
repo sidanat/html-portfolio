@@ -1,14 +1,12 @@
-html {
-
+.type{
     background-image:url(./assets/images/backdrop.jpg);
-    opacity: 1;
+    background-size: 100vw 100vh;
   }
-  h1 {
   
+  h1 {
     color: white;
     text-align: center;
     text-transform: capitalize;
-    
   }
   
   .poster {
@@ -18,13 +16,12 @@ html {
    color: white;
    font-family: "libre Baskerville", serif;
    text-align: center;
-  
   }
 
 .motivation {
     border: 5px solid white;
     width: 100%;
-
+    background-size: auto;
 }
 p {
     text-transform: capitalize;
@@ -32,9 +29,5 @@ p {
     border: 2px solid white;
     margin: 10px 20px;
     padding: 15px;
-    font-family: serif;
-
-
+    font-family: "libre Baskerville", serif;
 }
-
-https://www.pexels.com/photo/green-tree-268533
