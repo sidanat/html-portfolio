@@ -1,0 +1,40 @@
+html {
+
+    background-image:url(./assets/images/backdrop.jpg);
+    opacity: 1;
+  }
+  h1 {
+  
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    
+  }
+  
+  .poster {
+   width: 50%;
+   margin-left: 25%;
+   margin-top: 100px;  
+   color: white;
+   font-family: "libre Baskerville", serif;
+   text-align: center;
+  
+  }
+
+.motivation {
+    border: 5px solid white;
+    width: 100%;
+
+}
+p {
+    text-transform: capitalize;
+    font-size: 30px;
+    border: 2px solid white;
+    margin: 10px 20px;
+    padding: 15px;
+    font-family: serif;
+
+
+}
+
+https://www.pexels.com/photo/green-tree-268533
